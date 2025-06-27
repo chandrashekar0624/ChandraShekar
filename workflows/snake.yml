@@ -1,4 +1,4 @@
-
+# Trigger run manually
 name: Generate Snake Animation
 
 on:
