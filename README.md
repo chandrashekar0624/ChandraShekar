@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garidepalli Chandra Shekar <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Java and Front-End (and a beginner designer) developer from India</h3>
-
 <ul>
   <li>🔭 I’m currently working on my <strong>Java Course</strong></li>
   <li>🌱 I’m currently learning <strong>Java, HTML5, CSS3 and JavaScript</strong></li>
