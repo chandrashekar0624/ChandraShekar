@@ -48,10 +48,10 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/chandrashekar0624/ChandraShekar/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/chandrashekar0624/ChandraShekar/output/snake.svg)
+
 
 ---
 
